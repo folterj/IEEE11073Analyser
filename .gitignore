@@ -34,4 +34,5 @@
 *.user
 obj
 bin
+Release
 *.onetoc2
